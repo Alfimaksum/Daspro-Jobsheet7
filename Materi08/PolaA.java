@@ -1,4 +1,4 @@
-package Praktikum07;
+package Materi08;
 
 public class PolaA {
     public static void main(String[] args) {
