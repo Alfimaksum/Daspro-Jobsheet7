@@ -8,15 +8,21 @@ public class ArrayNilai01 {
         int[] nilaiAkhir = new int[10];
 
         // Memasukkan nilai ke dalam array
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < nilaiAkhir.length; i++) {
             System.out.print("Masukkan nilai akhir ke-" + (i + 1) + ": ");
             nilaiAkhir[i] = scanner.nextInt();
         }
 
-        // Menampilkan nilai dalam array
-        System.out.println("\nNilai akhir yang telah dimasukkan:");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("Nilai akhir ke-" + (i + 1) + " adalah: " + nilaiAkhir[i]);
+        // Menampilkan nilai dan status kelulusan
+        for (int i = 0; i < nilaiAkhir.length; i++) {
+            System.out.print("Mahasiswa ke-" + (i + 1) + ": ");
+            if (nilaiAkhir[i] >= 70) {
+                System.out.println("lulus");
+            } else {
+                System.out.println("tidak lulus");
+            }
         }
+
+        scanner.close(); // Menutup Scanner untuk menghindari resource leak
     }
 }
