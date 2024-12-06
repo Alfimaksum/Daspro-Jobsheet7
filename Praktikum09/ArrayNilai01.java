@@ -3,14 +3,14 @@ package Praktikum09;
 import java.util.Scanner;
 public class ArrayNilai01 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         int[] nilaiAkhir = new int[10];
 
         // Memasukkan nilai ke dalam array
         for (int i = 0; i < nilaiAkhir.length; i++) {
             System.out.print("Masukkan nilai akhir ke-" + (i + 1) + ": ");
-            nilaiAkhir[i] = scanner.nextInt();
+            nilaiAkhir[i] = sc.nextInt();
         }
 
         // Menampilkan nilai dan status kelulusan
@@ -23,6 +23,6 @@ public class ArrayNilai01 {
             }
         }
 
-        scanner.close(); // Menutup Scanner untuk menghindari resource leak
+        sc.close(); // Menutup Scanner untuk menghindari resource leak
     }
 }

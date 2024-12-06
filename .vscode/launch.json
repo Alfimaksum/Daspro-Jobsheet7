@@ -1,0 +1,364 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Bank01",
+            "request": "launch",
+            "mainClass": "Bank01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ContohOperator01",
+            "request": "launch",
+            "mainClass": "ContohOperator01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ContohTipeData01",
+            "request": "launch",
+            "mainClass": "ContohTipeData01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ContohVariabel01",
+            "request": "launch",
+            "mainClass": "ContohVariabel01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "CafeBuMariana",
+            "request": "launch",
+            "mainClass": "Fungsi01.CafeBuMariana",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "GajiKaryawan01",
+            "request": "launch",
+            "mainClass": "GajiKaryawan01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Kafe01",
+            "request": "launch",
+            "mainClass": "Kafe01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "KategoriUsia",
+            "request": "launch",
+            "mainClass": "KategoriUsia",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "PolaA",
+            "request": "launch",
+            "mainClass": "Materi08.PolaA",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "PolaB",
+            "request": "launch",
+            "mainClass": "Materi08.PolaB",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Survey",
+            "request": "launch",
+            "mainClass": "MateriArray2.Survey",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "DiskonBuku",
+            "request": "launch",
+            "mainClass": "Pemilihan02.DiskonBuku",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan101",
+            "request": "launch",
+            "mainClass": "Pemilihan02.Pemilihan2Percobaan101",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanBilangan01",
+            "request": "launch",
+            "mainClass": "PemilihanBilangan01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "PemilihanHariDengan",
+            "request": "launch",
+            "mainClass": "PemilihanHariDengan",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "InnerLatihan01",
+            "request": "launch",
+            "mainClass": "Praktikum01.InnerLatihan01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Latihan01",
+            "request": "launch",
+            "mainClass": "Praktikum01.Latihan01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan101(1)",
+            "request": "launch",
+            "mainClass": "Praktikum06.Pemilihan2Percobaan101",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan201",
+            "request": "launch",
+            "mainClass": "Praktikum06.Pemilihan2Percobaan201",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Pemilihan2Percobaan301",
+            "request": "launch",
+            "mainClass": "Praktikum06.Pemilihan2Percobaan301",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop",
+            "request": "launch",
+            "mainClass": "Praktikum07.Bioskop",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "KafeDoWhile01",
+            "request": "launch",
+            "mainClass": "Praktikum07.KafeDoWhile01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Parkir",
+            "request": "launch",
+            "mainClass": "Praktikum07.Parkir",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "SiakadFor",
+            "request": "launch",
+            "mainClass": "Praktikum07.SiakadFor",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "SiakadWhile01",
+            "request": "launch",
+            "mainClass": "Praktikum07.SiakadWhile01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "PersegiAngka",
+            "request": "launch",
+            "mainClass": "Praktikum08.PersegiAngka",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Porseni",
+            "request": "launch",
+            "mainClass": "Praktikum08.Porseni",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "RataNilai01",
+            "request": "launch",
+            "mainClass": "Praktikum08.RataNilai01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Square01",
+            "request": "launch",
+            "mainClass": "Praktikum08.Square01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Star01",
+            "request": "launch",
+            "mainClass": "Praktikum08.Star01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Triangle01",
+            "request": "launch",
+            "mainClass": "Praktikum08.Triangle01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBilangan01",
+            "request": "launch",
+            "mainClass": "Praktikum09.ArrayBilangan01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayNilai01",
+            "request": "launch",
+            "mainClass": "Praktikum09.ArrayNilai01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "ArrayRataNilai01",
+            "request": "launch",
+            "mainClass": "Praktikum09.ArrayRataNilai01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Kafe01(1)",
+            "request": "launch",
+            "mainClass": "Praktikum09.Kafe01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "SearchNilai01",
+            "request": "launch",
+            "mainClass": "Praktikum09.SearchNilai01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop(1)",
+            "request": "launch",
+            "mainClass": "Praktikum10.Bioskop",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Bioskop01",
+            "request": "launch",
+            "mainClass": "Praktikum10.Bioskop01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Nubers01",
+            "request": "launch",
+            "mainClass": "Praktikum10.Nubers01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Siakad01",
+            "request": "launch",
+            "mainClass": "Praktikum10.Siakad01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Cafe01",
+            "request": "launch",
+            "mainClass": "Praktikum11.Cafe01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Cafe02",
+            "request": "launch",
+            "mainClass": "Praktikum11.Cafe02",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "CafeNoAbsen",
+            "request": "launch",
+            "mainClass": "Praktikum11.CafeNoAbsen",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Faktorial01",
+            "request": "launch",
+            "mainClass": "Praktikum12.Faktorial01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Pangkat01",
+            "request": "launch",
+            "mainClass": "Praktikum12.Pangkat01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "SIAKAD01",
+            "request": "launch",
+            "mainClass": "SIAKAD01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "Segitiga01",
+            "request": "launch",
+            "mainClass": "Segitiga01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "TagihanListrik01",
+            "request": "launch",
+            "mainClass": "TagihanListrik01",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "BilanganTerbesar",
+            "request": "launch",
+            "mainClass": "Tugas03.BilanganTerbesar",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        },
+        {
+            "type": "java",
+            "name": "DiskonBuku(1)",
+            "request": "launch",
+            "mainClass": "Tugas03.DiskonBuku",
+            "projectName": "Daspro-Jobsheet7_8bbd5f2e"
+        }
+    ]
+}
